@@ -1,6 +1,6 @@
 // Service worker simples: deixa o app abrir mesmo sem internet.
 // Rede primeiro (pega atualizações), cache como reserva.
-const CACHE = "treino-v5";
+const CACHE = "treino-v6";
 const SHELL = [
   "./", "./index.html", "./app.js", "./app.css",
   "./manifest.webmanifest", "./icon-180.png", "./icon-192.png", "./icon-512.png"
